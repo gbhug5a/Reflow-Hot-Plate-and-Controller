@@ -1,3 +1,8 @@
+Note:  There is a video related to the hot plate:
+
+https://www.youtube.com/watch?v=hqwbDlXcs_I
+
+
 Reflow-Hot-Plate-and-Controller -------------------------------
 
 This repository describes a simple and inexpensive reflow device consisting
